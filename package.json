@@ -1,7 +1,7 @@
 {
   "name": "k12-xlox",
   "version": "0.1.0",
-  "homepage": "https://k12.xlox.in",
+  "homepage": "https://sc.xlox.in",
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
